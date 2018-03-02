@@ -1,6 +1,7 @@
 {
     "name": "ivwetg/relationship",
     "description": "推荐或网图等多种关系",
+    "license": "MIT",
     "authors": [
         {
             "name": "liangyuesheng",
